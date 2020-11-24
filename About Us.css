@@ -1,0 +1,106 @@
+
+main {flex: 1;}
+
+body
+{background-color: coral;
+padding-top: 1%;
+padding-bottom: 1%;
+justify-content: center;
+} 
+
+
+.row
+{
+    padding-top: 20px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+
+nav 
+    {background-color: cornflowerblue;
+    padding-right: 0px;
+    padding-left: 0px;
+    position: fixed;
+}
+
+a{
+    color: black;
+    align-content: center;
+}
+
+main
+{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 25px;
+}
+
+.background-img
+{
+    padding-top: 3rem;
+    margin-right: auto;
+    margin-left: auto;
+    position: center;
+}
+
+h1{
+font-size: 75px;
+
+}
+
+
+.title
+{color:navy;
+font-family: Verdana, Tahoma, sans-serif;
+font-variant: small-caps;
+text-align: center;
+padding-top: 75px;
+padding-bottom: 75px;
+padding-right: 0px;
+padding-left: 0px;
+font-weight: bold;
+height: 100px;
+font-size: 75px;
+}
+
+h2{
+color:midnightblue;
+padding-top: 50px;
+padding-bottom: 10px;
+text-align: center;
+font-size: 25px;
+
+}
+
+h3{
+    flex: 1;
+font-size: 20px;
+text-align: center;
+
+}
+
+h4{
+    color:midnightblue;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 15px;
+
+    }
+
+
+.card-title
+{
+font: bold;
+font-size: 3rem;}
+
+#purpose{
+text-align: center;
+
+}
+
+#signoff{
+    padding: 10px;
+    text-align: center;
+}

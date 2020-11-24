@@ -1,0 +1,77 @@
+
+body
+{background-color: coral;
+padding-top: 1%;
+padding-bottom: 1%;
+justify-content: center;
+} 
+
+
+
+nav 
+    {background-color: cornflowerblue;
+    padding-right: 0px;
+    padding-left: 0px;
+    position: fixed;
+}
+
+
+main
+{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 25px;
+}
+
+
+
+h1{
+font-size: 75px;
+
+}
+
+  #homebutton{
+    background-image: url(/Users/cameronmcgauchie/Documents/Code First Girls/Project/Homepage.jpg);
+  }
+
+  
+
+.title
+{color:navy;
+font-family: Verdana, Tahoma, sans-serif;
+font-variant: small-caps;
+text-align: center;
+padding-top: 75px;
+padding-bottom: 75px;
+padding-right: 0px;
+padding-left: 0px;
+font-weight: bold;
+height: 100px;
+font-size: 75px;
+}
+
+h2{
+color:midnightblue;
+padding-top: 50px;
+padding-bottom: 10px;
+text-align: center;
+font-size: 25px;
+
+}
+
+h3{
+    flex: 1;
+font-size: 20px;
+text-align: center;
+
+}
+
+h4{
+    color:midnightblue;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 15px;
+
+    }
+
